@@ -109,12 +109,12 @@ justify-content: center;
     background-color: cover;
 }
 .app-download:nth-child(1){
-    background-image: url(AppStore.png);
+    background-image: url(Imag/AppStore.png);
     margin-left: 65px;
     margin-right: 20px;
 }
 .app-download:nth-child(2){
-    background-image:url(PlayStore.png);
+    background-image:url(Imag/PlayStore.png);
     width: 12.6rem;
     margin-left: 20px;
 }
@@ -147,12 +147,12 @@ justify-content: center;
         margin-bottom: 10px;
     }
     .app-download:nth-child(1){
-        background-image: url(AppStore.png);
+        background-image: url(Imag/AppStore.png);
         margin-left: 70px;
         margin-right: 20px;
     }
     .app-download:nth-child(2){
-        background-image:url(PlayStore.png);
+        background-image:url(Imag/PlayStore.png);
         width: 12.6rem;
         margin-left: 20px;
     }
